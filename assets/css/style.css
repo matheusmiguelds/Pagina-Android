@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'android';
-    src: url(/aula19-desafio-seguido/assets/fontes/idroid.otf) format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
 }
 
 :root {
@@ -37,7 +37,7 @@ header {
 
 header h1 {
     color: #fff;
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-destaque);
     padding-top: 30px;
     margin-bottom: 20px;
     font-size: 3em;
